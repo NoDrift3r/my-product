@@ -32,7 +32,7 @@ Problem statement:
 When [im busy looking over schoolwork or just in general not available, I receive a call from my father telling me I have to help him navigate his firestick or other app], I struggle to [convey succinctly what needs to be done to fix the TV], which costs me [all the time in the world, it makes me feel terrible. I know how important it is for older people to get their news and watch their TV, its sometimes their only company. That’s my fathers case]. This happens because [my father is 80]. Right now I [try to teach him consistently but I cant expect him to handle all this technology], but [he is older and I know its harder].
 I'll know this is solved when: [my dad thanks me a thousand times, and he is very much smiling. He is someone who never smiled much throughout my life.]
 Check: none of these words appear: app, website, platform, dashboard, tool, AI, track, automate, notify, feature.
- 
+ Saludos soy Jesus.
 3. Existing Solutions
 What I use or tried
 Existing video camera	What it does well
